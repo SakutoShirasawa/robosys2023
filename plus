@@ -4,7 +4,7 @@
 import sys
 
 ans = 0.0
-for iline in sys.stdin:
+for line in sys.stdin:
     try:
         ans += int(line)
     except:
