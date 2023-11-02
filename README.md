@@ -1,6 +1,6 @@
 # robosys2023
 Repository for robot systems lectures  
-このリポジトリは２０２３年にロボットシステム学で使用したものです。
+このリポジトリは２０２３年にロボットシステム学で使用したものです。  
 ![test](https://github.com/SakutoShirasawa/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ## インストール方法  
