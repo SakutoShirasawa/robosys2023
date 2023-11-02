@@ -6,15 +6,15 @@ Repository for robot systems lectures
 ```
 git clone git@github.com:SakutoShirasawa/robosys2023.git
 ```
-##plusコマンド  
+## plusコマンド  
 ![test](https://github.com/SakutoShirasawa/robosys2023/actions/workflows/test.yml/badge.svg)
 
 標準入力から読み込んだ数値を足し合わせる。  
-##必要なソフトウェア  
+## 必要なソフトウェア  
 * python
   * テスト済み: 3.7～3.10
 
-##テスト環境  
+## テスト環境  
 * Ubuntu
 
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
