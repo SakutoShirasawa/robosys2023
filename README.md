@@ -1,7 +1,7 @@
 # robosys2023
 Repository for robot systems lectures  
 このリポジトリは２０２３年にロボットシステム学で使用したものです。  
-## インストール方法  
+## ダウンロード方法  
 次のコマンドを実行する
 ```
 git clone git@github.com:SakutoShirasawa/robosys2023.git
