@@ -1,7 +1,7 @@
 # robosys2023
 Repository for robot systems lectures  
 このリポジトリは２０２３年にロボットシステム学で使用したものです。  
-## ダウンロード方法  
+## ダウンロード方法
 次のコマンドを実行する
 ```
 git clone git@github.com:SakutoShirasawa/robosys2023.git
@@ -28,7 +28,7 @@ seq n > nums
   * テスト済み: 3.7～3.10
 
 ## テスト環境  
-* Ubuntu
+* Ubuntu22.04.2LTS
 ---
 * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
 * © 2023 SakutoShirasawa
