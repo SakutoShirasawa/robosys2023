@@ -1,5 +1,4 @@
-# robosys2023
-Repository for robot systems lectures  
+# robosys2023  
 このリポジトリは２０２３年にロボットシステム学で使用したものです。  
 ## ダウンロード方法
 次のコマンドを実行する
